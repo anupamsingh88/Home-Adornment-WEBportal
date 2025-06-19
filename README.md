@@ -3,7 +3,7 @@
 Welcome to the official repository of the **Home Adornment Web Portal** — a modern, full-stack e-commerce web app designed to showcase and sell premium home decor products. Built with the **MERN stack**, enhanced by **TypeScript**, and styled with **Tailwind CSS**, this portal delivers a seamless user experience across all devices.
 
 > ⚡️ Developed using **Replit's AI Agent** with a no-code interface.  
-> 🛠️ Manual setup and configuration of **database**, **backend**, and **ORM** integration were done by me.  
+> 🛠️ Manual setup and configuration of **database**, **backend**, and **ORM** integration were done by us.  
 > 🗃️ Database hosted on **Neon Serverless**, queried via **Drizzle ORM** with full TypeScript support.
 
 ---
@@ -21,9 +21,8 @@ Welcome to the official repository of the **Home Adornment Web Portal** — a mo
 - 🧠 **AI-Assisted Development:** Built using Replit AI Agent (no manual UI code)
 - 📦 **Dynamic Product Listings** pulled from a live PostgreSQL database
 - 🛒 Cart functionality: add, remove, update quantity
-- 🌙 **Dark Mode** compatibility with themed logo and text color updates
 - 🔐 Auth-ready structure with login/register pages
-- ⚙️ Future enhancements: Payment gateway and user settings page
+- ⚙️ Future enhancements: User settings page
 - 📱 Fully **responsive design** optimized for mobile, tablet, and desktop
 
 ---
