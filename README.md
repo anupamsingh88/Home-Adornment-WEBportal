@@ -10,7 +10,7 @@ Welcome to the official repository of the **Home Adornment Web Portal** — a mo
 
 ## 🌐 Live Preview
 
-🔗 [Visit Live Website](https://decornest.onrender.com/ _(Add your live deployment link here)_
+🔗 [Visit Live Website](#) _(https://decornest.onrender.com/)_
 
 ---
 
